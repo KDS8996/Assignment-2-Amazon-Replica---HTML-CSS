@@ -38,6 +38,10 @@
     font-size: 28px;
 }
 
+.card h6 {
+    font-weight: 100;
+}
+
 .card label {
     font-size: 13px;
     padding-left: 2px;
